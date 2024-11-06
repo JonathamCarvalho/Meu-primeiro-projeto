@@ -1,0 +1,110 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin-top: 44px;
+    margin-left: 76px;
+    margin-bottom: 144px;
+}
+
+.Header-link{
+    color: #989D9C;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.Header-link:active{
+    opacity: .5;
+    color: black;
+}
+
+#Header-button{
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+    border-radius: 20.5px;
+    background: #665AE1;
+    width: 130px;
+    height: 41px;
+    border: none;
+    cursor: pointer;
+}
+
+#Header-button:active{
+    opacity: .5;
+}
+
+img{
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;
+    margin-left: 157px;
+}
+
+h1{
+    color: #515151;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+h2{
+    color: #515151;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p{
+    width: 515px;
+    color: #848484;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 32px 0 65px 0;
+}
+
+#main-button{
+    color: #000;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 147px;
+    height: 26px;
+
+    width: 239px;
+    height: 64px;
+    border-radius: 20.5px;
+    background: #ADFF00;
+    border: none;
+    cursor: pointer;
+}
+
+#main-button:hover{
+    opacity: .6;
+}
+
+#main-button:active{
+    opacity: .5;
+}
+
