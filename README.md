@@ -8,7 +8,7 @@
  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
  
-
-<img src="https://github.com/JonathamCarvalho/We-care-your-pet/blob/master/assets/mobile.png?raw=true">
+<img src="https://github.com/JonathamCarvalho/We-care-your-pet/blob/master/assets/computador.png?raw=true" alt="we-care-your-pet para computador">
+<img src="https://github.com/JonathamCarvalho/We-care-your-pet/blob/master/assets/mobile.png?raw=true" alt=" we-care-your-pet para mobile">
 
 
