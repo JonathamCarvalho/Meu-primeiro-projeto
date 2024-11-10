@@ -9,4 +9,6 @@
  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
  
 
-<img src="https://github.com/JonathamCarvalho/We-care-your-pet/blob/master/assets/we%20car.PNG?raw=true">
+<img src="https://github.com/JonathamCarvalho/We-care-your-pet/blob/master/assets/mobile.png?raw=true">
+
+
